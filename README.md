@@ -47,11 +47,6 @@ The database comprises six key tables:
 
 The solutions for the above analyses are detailed in the `solutions.pdf` file.
 
----
-
-For any questions or further information, please refer to the `solutions.pdf` or contact [Aaqib Bashir](https://www.linkedin.com/in/bashiraaqib/).
-
----
 
 ---
 

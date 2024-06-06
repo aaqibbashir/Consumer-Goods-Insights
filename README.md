@@ -1,3 +1,5 @@
+![Conusmer Goods Insights](https://github.com/aaqibbashir/Consumer-Goods-Insights/assets/6091987/768630ef-3e54-4533-b3ae-66880dd19859)
+
 # Consumer Goods Insights
 
 This project, implemented using MySQL, involves comprehensive data analysis for Atliq Hardware based on the given dataset. The objective was to generate insightful reports addressing various business queries, enhancing decision-making processes. The solutions to the analyses are presented in the `solutions.pdf` file.
